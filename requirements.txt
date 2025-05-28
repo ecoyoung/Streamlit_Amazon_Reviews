@@ -7,3 +7,4 @@ scipy==1.10.1
 nltk==3.8.1
 wordcloud==1.9.3
 plotly==5.18.0  # 添加 plotly（支持 plotly.express）
+openpyxl==3.1.2
